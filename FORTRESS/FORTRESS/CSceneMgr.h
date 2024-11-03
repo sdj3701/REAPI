@@ -11,7 +11,7 @@ private:
 
 public:
 	void Init();
-	void update(HDC _dc);
+	void update();
 	void render(HDC _dc);
 };
 

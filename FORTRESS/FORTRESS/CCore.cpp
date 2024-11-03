@@ -50,10 +50,7 @@ int CCore::Init(HWND _hWnd, POINT _ptResolution)
 	CTimeMgr::GetInst()->Init();
 	CKeyMgr::GetInst()->Init();
 	CSceneMgr::GetInst()->Init();
-	
 
-	g_obj.SetPos(Vec2((float)(m_ptResolution.x / 2), (float)(m_ptResolution.y / 2)));
-	g_obj.SetScale(Vec2(100,100));
 	return S_OK;
 }
 
@@ -64,14 +61,14 @@ void CCore::progress()
 	CTimeMgr::GetInst()->update();
 	CKeyMgr::GetInst()->update();
 
-	CSceneMgr::GetInst()->update(m_memDC);
+	CSceneMgr::GetInst()->update();
 
 
 	// Rendering
 	// È­¸é Clear
 	Rectangle(m_memDC, -1, -1, m_ptResolution.x + 1, m_ptResolution.y + 1);
 	
-	CSceneMgr::GetInst()->render();
+	CSceneMgr::GetInst()->render(m_memDC);
 
 	BitBlt(m_hDC, 0, 0, m_ptResolution.x, m_ptResolution.y, m_memDC, 0, 0, SRCCOPY);
 }
