@@ -228,3 +228,6 @@ msbuild.binlog
 /build/tools/**
 !/build/tools/packages.config
 /build/dotnet-install.ps1
+
+.vs/
+x64/
