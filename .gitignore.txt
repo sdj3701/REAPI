@@ -229,5 +229,5 @@ msbuild.binlog
 !/build/tools/packages.config
 /build/dotnet-install.ps1
 
-.vs/
-x64/
+FORTRESS/.vs/
+FORTRESS/x64/
