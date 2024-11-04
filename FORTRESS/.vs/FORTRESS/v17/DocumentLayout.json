@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\REAPI\\FORTRESS\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FEDFCA46-1D5D-4D9C-8505-5A6ED194D739}|FORTRESS\\FORTRESS.vcxproj|D:\\REAPI\\FORTRESS\\FORTRESS\\CCore.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{FEDFCA46-1D5D-4D9C-8505-5A6ED194D739}|FORTRESS\\FORTRESS.vcxproj|solutionrelative:FORTRESS\\CCore.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{FEDFCA46-1D5D-4D9C-8505-5A6ED194D739}|FORTRESS\\FORTRESS.vcxproj|D:\\REAPI\\FORTRESS\\FORTRESS\\CPlayer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FEDFCA46-1D5D-4D9C-8505-5A6ED194D739}|FORTRESS\\FORTRESS.vcxproj|solutionrelative:FORTRESS\\CPlayer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FEDFCA46-1D5D-4D9C-8505-5A6ED194D739}|FORTRESS\\FORTRESS.vcxproj|D:\\REAPI\\FORTRESS\\FORTRESS\\CObject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{FEDFCA46-1D5D-4D9C-8505-5A6ED194D739}|FORTRESS\\FORTRESS.vcxproj|solutionrelative:FORTRESS\\CObject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{FEDFCA46-1D5D-4D9C-8505-5A6ED194D739}|FORTRESS\\FORTRESS.vcxproj|D:\\REAPI\\FORTRESS\\FORTRESS\\CPlayer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FEDFCA46-1D5D-4D9C-8505-5A6ED194D739}|FORTRESS\\FORTRESS.vcxproj|solutionrelative:FORTRESS\\CPlayer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FEDFCA46-1D5D-4D9C-8505-5A6ED194D739}|FORTRESS\\FORTRESS.vcxproj|D:\\REAPI\\FORTRESS\\FORTRESS\\CScene.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -17,6 +17,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{FEDFCA46-1D5D-4D9C-8505-5A6ED194D739}|FORTRESS\\FORTRESS.vcxproj|D:\\REAPI\\FORTRESS\\FORTRESS\\CObject.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{FEDFCA46-1D5D-4D9C-8505-5A6ED194D739}|FORTRESS\\FORTRESS.vcxproj|solutionrelative:FORTRESS\\CObject.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEDFCA46-1D5D-4D9C-8505-5A6ED194D739}|FORTRESS\\FORTRESS.vcxproj|D:\\REAPI\\FORTRESS\\FORTRESS\\CObject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FEDFCA46-1D5D-4D9C-8505-5A6ED194D739}|FORTRESS\\FORTRESS.vcxproj|solutionrelative:FORTRESS\\CObject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEDFCA46-1D5D-4D9C-8505-5A6ED194D739}|FORTRESS\\FORTRESS.vcxproj|D:\\REAPI\\FORTRESS\\FORTRESS\\CCore.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FEDFCA46-1D5D-4D9C-8505-5A6ED194D739}|FORTRESS\\FORTRESS.vcxproj|solutionrelative:FORTRESS\\CCore.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FEDFCA46-1D5D-4D9C-8505-5A6ED194D739}|FORTRESS\\FORTRESS.vcxproj|D:\\REAPI\\FORTRESS\\FORTRESS\\CScene.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -50,7 +58,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 13,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -71,6 +79,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "CPlayer.cpp",
+              "DocumentMoniker": "D:\\REAPI\\FORTRESS\\FORTRESS\\CPlayer.cpp",
+              "RelativeDocumentMoniker": "FORTRESS\\CPlayer.cpp",
+              "ToolTip": "D:\\REAPI\\FORTRESS\\FORTRESS\\CPlayer.cpp",
+              "RelativeToolTip": "FORTRESS\\CPlayer.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-04T10:06:18.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CPlayer.h",
+              "DocumentMoniker": "D:\\REAPI\\FORTRESS\\FORTRESS\\CPlayer.h",
+              "RelativeDocumentMoniker": "FORTRESS\\CPlayer.h",
+              "ToolTip": "D:\\REAPI\\FORTRESS\\FORTRESS\\CPlayer.h",
+              "RelativeToolTip": "FORTRESS\\CPlayer.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-04T10:06:09.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "CObject.cpp",
               "DocumentMoniker": "D:\\REAPI\\FORTRESS\\FORTRESS\\CObject.cpp",
               "RelativeDocumentMoniker": "FORTRESS\\CObject.cpp",
@@ -109,7 +143,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "CScene.h",
               "DocumentMoniker": "D:\\REAPI\\FORTRESS\\FORTRESS\\CScene.h",
               "RelativeDocumentMoniker": "FORTRESS\\CScene.h",
@@ -117,12 +151,11 @@
               "RelativeToolTip": "FORTRESS\\CScene.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-11-03T12:28:39.511Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-03T12:28:39.511Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "CScene_Start.h",
               "DocumentMoniker": "D:\\REAPI\\FORTRESS\\FORTRESS\\CScene_Start.h",
               "RelativeDocumentMoniker": "FORTRESS\\CScene_Start.h",
@@ -130,12 +163,11 @@
               "RelativeToolTip": "FORTRESS\\CScene_Start.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-11-03T12:27:09.318Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-03T12:27:09.318Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "CScene_Start.cpp",
               "DocumentMoniker": "D:\\REAPI\\FORTRESS\\FORTRESS\\CScene_Start.cpp",
               "RelativeDocumentMoniker": "FORTRESS\\CScene_Start.cpp",
@@ -143,12 +175,11 @@
               "RelativeToolTip": "FORTRESS\\CScene_Start.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-11-03T12:27:08.829Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-03T12:27:08.829Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "CSceneMgr.h",
               "DocumentMoniker": "D:\\REAPI\\FORTRESS\\FORTRESS\\CSceneMgr.h",
               "RelativeDocumentMoniker": "FORTRESS\\CSceneMgr.h",
@@ -156,12 +187,11 @@
               "RelativeToolTip": "FORTRESS\\CSceneMgr.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-11-03T12:26:55.151Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-03T12:26:55.151Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "CSceneMgr.cpp",
               "DocumentMoniker": "D:\\REAPI\\FORTRESS\\FORTRESS\\CSceneMgr.cpp",
               "RelativeDocumentMoniker": "FORTRESS\\CSceneMgr.cpp",
@@ -169,12 +199,11 @@
               "RelativeToolTip": "FORTRESS\\CSceneMgr.cpp",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-11-03T12:26:36.091Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-03T12:26:36.091Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "CCore.h",
               "DocumentMoniker": "D:\\REAPI\\FORTRESS\\FORTRESS\\CCore.h",
               "RelativeDocumentMoniker": "FORTRESS\\CCore.h",
@@ -182,18 +211,17 @@
               "RelativeToolTip": "FORTRESS\\CCore.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-11-03T12:26:03.383Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-03T12:26:03.383Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "CCore.cpp",
               "DocumentMoniker": "D:\\REAPI\\FORTRESS\\FORTRESS\\CCore.cpp",
               "RelativeDocumentMoniker": "FORTRESS\\CCore.cpp",
               "ToolTip": "D:\\REAPI\\FORTRESS\\FORTRESS\\CCore.cpp",
               "RelativeToolTip": "FORTRESS\\CCore.cpp",
-              "ViewState": "AgIAACcAAAAAAAAAAAAAADQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADUAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-11-03T12:26:02.858Z",
               "EditorCaption": ""

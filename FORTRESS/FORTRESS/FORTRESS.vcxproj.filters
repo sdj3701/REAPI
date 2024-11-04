@@ -41,6 +41,9 @@
     <Filter Include="Engine\05. Sence\Scene_Start">
       <UniqueIdentifier>{24a5e1ce-1848-4e3e-8a9b-9da11cf88c56}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Engine\04. Object\player">
+      <UniqueIdentifier>{b163997b-9d40-4e6d-8dc1-c9f230da7d88}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="CCore.h">
@@ -83,6 +86,7 @@
     <ClInclude Include="CScene_Start.h">
       <Filter>Engine\05. Sence\Scene_Start</Filter>
     </ClInclude>
+    <ClInclude Include="CPlayer.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="CCore.cpp">
@@ -107,6 +111,7 @@
     <ClCompile Include="CScene_Start.cpp">
       <Filter>Engine\05. Sence\Scene_Start</Filter>
     </ClCompile>
+    <ClCompile Include="CPlayer.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ResourceCompile Include="FORTRESS.rc">
