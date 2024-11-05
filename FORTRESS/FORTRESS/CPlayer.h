@@ -1,8 +1,10 @@
 #pragma once
 #include "CObject.h"
-class CPlayer
-	: CObject
+class CPlayer :
+	public CObject
 {
 public:
 	virtual void update();
+
+
 };

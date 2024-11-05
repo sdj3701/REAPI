@@ -44,6 +44,12 @@
     <Filter Include="Engine\04. Object\player">
       <UniqueIdentifier>{b163997b-9d40-4e6d-8dc1-c9f230da7d88}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Engine\04. Object\NewFilter2">
+      <UniqueIdentifier>{23cfd77f-4a46-4fbf-b21c-e16186be8a57}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Engine\04. Object\Monster">
+      <UniqueIdentifier>{7ba4314f-69e2-4a2e-8453-706b3e2ff8f3}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="CCore.h">
@@ -86,7 +92,12 @@
     <ClInclude Include="CScene_Start.h">
       <Filter>Engine\05. Sence\Scene_Start</Filter>
     </ClInclude>
-    <ClInclude Include="CPlayer.h" />
+    <ClInclude Include="CPlayer.h">
+      <Filter>Engine\04. Object\player</Filter>
+    </ClInclude>
+    <ClInclude Include="CMonster.h">
+      <Filter>Engine\04. Object\Monster</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="CCore.cpp">
@@ -111,7 +122,12 @@
     <ClCompile Include="CScene_Start.cpp">
       <Filter>Engine\05. Sence\Scene_Start</Filter>
     </ClCompile>
-    <ClCompile Include="CPlayer.cpp" />
+    <ClCompile Include="CPlayer.cpp">
+      <Filter>Engine\04. Object\player</Filter>
+    </ClCompile>
+    <ClCompile Include="CMonster.cpp">
+      <Filter>Engine\04. Object\Monster</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ResourceCompile Include="FORTRESS.rc">
